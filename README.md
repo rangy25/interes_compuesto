@@ -1,5 +1,5 @@
 # interes_compuesto
-hacer el diagrama de flujo y elprograma en python, que lea un capital C, y que averigue el prima en cuantos meses se duplica si lo colocamos a un interes compuesto del 5% mensual  
+hacer el diagrama de flujo y elprograma en python, que lea un capital C, y que averigue el prima en cuantos meses se duplica si lo colocamos a un interes compuesto del 5% mensual.
 
 # ANALISIS
 Variables de entrada
