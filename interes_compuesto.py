@@ -12,7 +12,7 @@ while ( C <= D ):
     C = 1.05*C
     N = N+1
 print ( " la cantidad de meses son : " + str (N))
-print ( "el valor final es de : " + str (D))
+print ( "el valor final es de : " + str (C))
 
 
     
